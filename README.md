@@ -42,7 +42,7 @@ Context API ou Hooks (useState, useEffect, etc.) → Gerenciamento de estado e l
    ```sh
    npm run start
    ```
-Isso abrirá o projeto no seu navegador, geralmente acessando http://localhost:3000.
+Isso abrirá o projeto no seu navegador, geralmente acessando http://localhost:3001.
 
 ## 📢 Funcionalidades
 
